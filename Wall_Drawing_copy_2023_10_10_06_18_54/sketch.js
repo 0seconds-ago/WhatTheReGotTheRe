@@ -6,7 +6,7 @@ let n = 10;
 let randomPoints;
 
 function setup() {
-  createCanvas(900, 768);
+  createCanvas(512, 512);
    background(0);
   //noLoop();
   
