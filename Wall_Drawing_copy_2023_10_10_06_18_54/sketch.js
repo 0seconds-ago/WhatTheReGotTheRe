@@ -39,7 +39,7 @@ function draw() {
     strokeWeight(random(150));
     stroke(random(255),random(255),random(255), random(100,170));
   }
-  
+    
   
   // step 3
   //stroke(random(255),random(255),random(255), 100);
